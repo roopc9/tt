@@ -1,0 +1,3 @@
+https://safetica-srv.presales.seainfonet.com/safetica/
+
+C:\Program Files\Safetica\STCService.exe --readsettings
